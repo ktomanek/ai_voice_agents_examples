@@ -9,8 +9,6 @@ demo based on LiveKit VoiceAI Quickstart
 
 ## authenticate
 
-https://cloud.livekit.io/login?r=%2Fcli%2Fconfirm-auth%2F%3Ft%3De3c2480f-2e91-4351-a4fd-37202effb4ee
-
 ```cp example.env .env``` and add your keys
 
 ## deps
